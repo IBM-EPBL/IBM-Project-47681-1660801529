@@ -1,8 +1,0 @@
-﻿Name,Quantity,Component
-"U1",1," Arduino Uno R3"
-"PING1",1," Ultrasonic Distance Sensor"
-"SERVO1",1,"Positional Micro Servo"
-"PIR1",1,"991.7564441972081 , 160.85787222879878 , 160.85787222879878  PIR Sensor"
-"PIEZO1",1," Piezo"
-"R1",1,"1 kΩ Resistor"
-"D1",1,"Blue LED"
